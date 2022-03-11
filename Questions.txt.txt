@@ -1,0 +1,25 @@
+Question,GoodQ,BadQ
+What excited you?;What drained you?;What are you grateful for?,0,0
+Who are you jealous of?;Why?;What can you do to take yourself in that direction?,0,0
+What is the worst thing that has happened to you in the last week?;How is it the best thing that has ever happened to you?,0,0
+What are my 5 most important values?;Is my life, mindset, and daily actions aligned with them?,0,0
+How do I like to spend my day?;What’s my favorite way of spending a day off?;What is my perfect day?,0,0
+What are 5 things I like the most about myself?;Why are these my strengths?,0,0
+What are 5 things I like the least about myself?;What can I do to work and grow through them, and unleash my full potential?,0,0
+What words or quotes have impacted my life and changed the way I think about something?,0,0
+What’s the one thing I couldn’t imagine my life without?,0,0
+How did I get where I am today?;What shaped me?;What made me me?,0,0
+Describe yourself in 10 words.;Describe yourself in 50 words.,0,0
+What kind of impression do I tend to leave on people?;Is this the mark I want to leave?,0,0
+Imagine a world where I could do everything I like without being judged.;Would anything change in my life?,0,0
+In what situations do I undervalue myself?,0,0
+What's something I wish I had known 5/10/15 years ago?;If I could give myself the advice I needed at that time, how would my life change?;How can I apply this advice now?,0,0
+What is the best day in my life so far?;Why?,0,0
+What’s the most outrageous thing I’ve ever done? How did it make me feel?,0,0
+If I could travel back in time, what moment would I go back to experience again right away?,0,0
+What is 1 thing I learned from today/this week/month/year…,0,0
+Who are the 5 people I spend most of my time with?;How do they make me feel?,0,0
+What are my weak sides as a partner/friend/sibling/colleague I should work on?,0,0
+Which relationships in my life could use some improvements?;What went wrong and what can I do to fix it?,0,0
+What are the 3 things I look for in every relationship?;What do I bring to every relationship?,0,0
+
