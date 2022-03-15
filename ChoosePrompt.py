@@ -6,11 +6,11 @@ import datetime
 
 emailU = 'deliveredemailprompts@gmail.com'
 emailPass = 'DeliveredPrompts'
-sendTo = ['johnsen.danny42@gmail.com']
+sendTo = ['johnsen.danny42@gmail.com', 'lizzy.johnsen@gmail.com']
 
 
 for u in sendTo:
-    file = pd.read_csv('Questions.csv')
+    file = pd.read_csv('https://raw.githubusercontent.com/johnsendanny/JournalProj/master/Questions.csv')
     choice = np.random.choice(file['Question'])
     split = str.split(choice,';')
 
